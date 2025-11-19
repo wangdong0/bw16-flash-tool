@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Ameba烧录脚本
-echo "=== Ameba D 烧录脚本（小网洞） ==="
+echo "=== Ameba D 烧录脚本 v1.0（小网洞） ==="
 
 # 检查并安装socat
 if ! command -v socat &> /dev/null; then
