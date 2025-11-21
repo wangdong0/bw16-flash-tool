@@ -83,13 +83,20 @@ pkg install git
 git clone https://github.com/wangdong0/bw16-flash-tool
 ~~~
 
+​	或使用镜像
+
+~~~
+git clone https://gitclone.com/github.com/wangdong0/bw16-flash-tool
+~~~
+
 - 进入文件夹并执行烧录
 
 ~~~
-cd bw16
+cd bw16-flash-tool
 bash start.sh
 ~~~
 
 ![image-20251021005726989](README.assets/image-20251021005726989.png)
 
 烧录完成，确认没有报错，重新上电使用即可。
+
