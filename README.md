@@ -1,8 +1,8 @@
 # bw16-flash-tool
 
-![GitHub Release Date](https://img.shields.io/github/stars/wangdong0/bw16-flash-tool)![GitHub Release Date](https://img.shields.io/github/release-date/wangdong0/bw16-flash-tool)<img src="https://img.shields.io/badge/powershell-0050AA"/><img src="https://img.shields.io/badge/shell-black"/>
+![GitHub Release Date](https://img.shields.io/github/stars/wangdong0/bw16-flash-tool) ![GitHub Release Date](https://img.shields.io/github/release-date/wangdong0/bw16-flash-tool) <img src="https://img.shields.io/badge/powershell-0050AA"/> <img src="https://img.shields.io/badge/shell-black"/>
 
-<img src="https://badgen.net/badge/icon/windows7/?icon=windows&label"/><img src="https://badgen.net/badge/icon/win10/?icon=windows&label"/><img src="https://badgen.net/badge/icon/win11/?icon=windows&label"/><img src="https://img.shields.io/badge/android-green?logo=android&logoColor=white"/>
+<img src="https://badgen.net/badge/icon/windows7/?icon=windows&label"/> <img src="https://badgen.net/badge/icon/win10/?icon=windows&label"/> <img src="https://badgen.net/badge/icon/win11/?icon=windows&label"/> <img src="https://img.shields.io/badge/android-green?logo=android&logoColor=white"/>
 
 ![image-20251120013510974](README.assets/image-20251120013510974.png)
 
