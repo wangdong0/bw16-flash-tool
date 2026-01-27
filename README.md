@@ -17,7 +17,7 @@
 
 【视频教程】
 
-<iframe src="//player.bilibili.com/player.html?isOutside=true&aid=115942776380118&bvid=BV1nXzKBUEMB&cid=35557999952&p=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+[![image-20260127163841768](README.assets/image-20260127163841768.png)](https://player.bilibili.com/player.html?isOutside=true&aid=115942776380118&bvid=BV1nXzKBUEMB&cid=35557999952&p=1)
 
 > [!WARNING]
 >
