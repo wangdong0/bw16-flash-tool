@@ -15,6 +15,10 @@
 >
 > 杀手固件来源：https://github.com/tesa-klebeband/RTL8720dn-Deauther
 
+【视频教程】
+
+<video src="https://www.bilibili.com/video/BV1nXzKBUEMB"></video>
+
 > [!WARNING]
 >
 > 本程序与固件仅限用于合法的技术研究、安全测试及教育用途。
@@ -79,7 +83,7 @@
 
 打开**TCPUART**，点击Connect连接设备，切换server模式，点击Start。然后将应用变为小窗模式防止应用休眠（这步不确定是不是必要的，但是笔者的手机不做这步会有问题）。
 
-![image-20251021005528247](README.assets/image-20251021005528247.png)
+<img src="README.assets/image-20251021005528247.png" alt="image-20251021005528247" style="zoom: 50%;" />
 
 打开**termux**，依次输入如下命令，等待烧录完成。
 
@@ -108,7 +112,7 @@ cd bw16-flash-tool
 bash start.sh
 ~~~
 
-![image-20251021005726989](README.assets/image-20251021005726989.png)
+<img src="README.assets/image-20251021005726989.png" alt="image-20251021005726989" style="zoom: 67%;" />
 
 烧录完成，确认没有报错，重新上电使用即可。
 
